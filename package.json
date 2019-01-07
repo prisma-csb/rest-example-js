@@ -1,0 +1,20 @@
+{
+  "name": "prisma-based-rest-api-example-js",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "prisma": "1.23.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "graphql": "^14.0.2",
+    "prisma-client-lib": "^1.19.3"
+  },
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "keywords": [],
+  "description": ""
+}
