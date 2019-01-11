@@ -4,7 +4,7 @@ This example shows how to implement a **REST API** using [Express.JS](https://ex
 
 ## How to use
 
-Go to: [https://codesandbox.io/s/github/prisma-csb/rest-example-js](https://codesandbox.io/s/github/prisma-csb/rest-example-js)
+Go to [https://codesandbox.io/s/github/prisma-csb/rest-example-js](https://codesandbox.io/s/github/prisma-csb/rest-example-js) to explore the project as a CodeSandbox and follow the [**setup instructions**](./SETUP.md) to connect it to your own demo database.
 
 ## API
 
